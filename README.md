@@ -4,7 +4,7 @@
 <h1 align="center">👋 Hello, I'm Rufai Ahmed</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;" alt="Typing SVG" />
 
 </p>
 
@@ -95,7 +95,7 @@ What excites me most about being a software engineer is the ability to build and
   <table>
     <tr>
       <td>
-        <a href="https://github.com/Rufai-Ahmed/dogood-home">
+        <a href="https://github.com/Rufai-Ahmed/Headwind">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rufai-Ahmed&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
@@ -107,7 +107,7 @@ What excites me most about being a software engineer is the ability to build and
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/Rufai-Ahmed/folio">
+        <a href="https://github.com/Rufai-Ahmed/helloFresh">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rufai-Ahmed&repo=folio&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
