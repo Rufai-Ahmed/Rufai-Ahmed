@@ -17,17 +17,17 @@
   <tr>
     <td align="center">
       <a href="https://ahmed-rufai.vercel.app" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square" alt="Rufai Ahmed">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Rufai+Ahmed&size=square" alt="Rufai Ahmed">
       </a>
     </td>
     <td align="center">
       <a href="https://linkedin.com/in/rufai-ahmed" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square" alt="Rufai Ahmed">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Rufai+Ahmed&size=square" alt="Rufai Ahmed">
       </a>
     </td>
     <td align="center">
       <a href="https://www.facebook.com/profile.php?id=100094312980094" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Kenan+Gain&size=square" alt="Rufai Ahmed">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Rufai+Ahmed&size=square" alt="Rufai Ahmed">
       </a>
     </td>
   </tr>
