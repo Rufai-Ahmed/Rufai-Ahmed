@@ -49,7 +49,7 @@ const ahmed = {
 
 ### Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rufai-Ahmed&show_icons=true&hide_border=true&bg_color=080808&title_color=f0ede8&text_color=8a8681&icon_color=f0ede8&border_radius=6" alt="GitHub stats">
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Rufai-Ahmed&show_icons=true&hide_border=true&bg_color=080808&title_color=f0ede8&text_color=8a8681&icon_color=f0ede8&border_radius=6" alt="GitHub stats">
 <img height="170" src="https://streak-stats.demolab.com/?user=Rufai-Ahmed&hide_border=true&background=080808&ring=f0ede8&fire=f0ede8&currStreakNum=f0ede8&currStreakLabel=8a8681&sideNums=f0ede8&sideLabels=8a8681&dates=5a5751&border_radius=6" alt="Streak">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rufai-Ahmed&custom_title=Contribution%20Activity&hide_border=true&bg_color=080808&color=8a8681&title_color=f0ede8&line=f0ede8&point=f0ede8&area=true&area_color=f0ede8&radius=6" alt="Activity graph">
